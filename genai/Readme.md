@@ -21,7 +21,7 @@ AWS Generative AI 및 Foundation 모델에 대한 한글 워크샵 & 예제 모�
 - bedrock : WIP
 
 
-<img src="./jumpstart/text_to_text/figures/model_tune_consumer.png"  width="900" height="470">
+<img src="genai/aws-gen-ai-kr/imgs/model_tune_consumer.png"  width="900" height="470">
 
 
 
